@@ -1,0 +1,3 @@
+<?php
+
+    lien="entree.html";
