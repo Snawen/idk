@@ -1,3 +1,9 @@
 <?php
+    require 'index.php';
 
-    lien="entree.html";
+
+
+
+
+
+?>
